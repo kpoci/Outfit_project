@@ -1,0 +1,8 @@
+###### Requirements without Version Specifiers ######`
+
+matplotlib
+numpy
+
+
+scipy
+webcolors
